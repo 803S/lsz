@@ -1,6 +1,6 @@
 [package]
 name = "lsz"
-version = "0.8.1"
+version = "0.9.7"
 edition = "2021"
 
 [dependencies]
@@ -11,6 +11,5 @@ ratatui = "0.26"
 crossterm = "0.27"
 termimad = "0.26"
 syntect = "5.0"
-# 新增: 用于将 ANSI 字符串转换为 Ratatui Text
-ansi-to-tui = "4.0" 
-unicode-width = "0.1" 
+ansi-to-tui = "4.0"
+unicode-width = "0.1"

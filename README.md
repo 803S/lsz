@@ -21,12 +21,6 @@
 - 代码高亮：支持常见代码、脚本、配置文件
 - 压缩包树形预览：快速看 archive 结构，不必先解压
 
-## 构建
-
-```bash
-cargo build
-```
-
 ## 安装
 
 源码安装：
@@ -34,7 +28,11 @@ cargo build
 ```bash
 cargo install --path .
 ```
-~~可直接将可执行文件放到$PATH目录下~~
+## 构建
+
+```bash
+cargo build
+```
 
 调试运行：
 

@@ -41,7 +41,7 @@ cd /tmp && git clone https://github.com/803S/lsz.git && cd ./lsz && cargo instal
 无编译环境，linux_x64：
 
 ```bash
-wget https://github.com/803S/lsz/releases/download/lsz/lsz && sudo mv ./lsz /usr/local/bin/lsz && sudo chmod 755 /usr/local/bin/lsz && echo 'ok!'
+TARGET="$(command -v lsz 2>/dev/null || echo /usr/local/bin/lsz)"; wget -O /tmp/lsz "https://github.com/803S/lsz/releases/download/lsz/lsz" && sudo install -m 755 /tmp/lsz "$TARGET" && rm -f /tmp/lsz && echo "ok: $TARGET"
 ```
 
 ## 常用命令

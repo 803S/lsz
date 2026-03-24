@@ -35,18 +35,13 @@
 源码安装：
 
 ```bash
-cargo install --path .
+# cargo install --path .
+cd /tmp && git clone https://github.com/803S/lsz.git && cd ./lsz && cargo install --path .
 ```
-## 构建
+无编译环境，linux_x64：
 
 ```bash
-cargo build
-```
-
-调试运行：
-
-```bash
-./target/debug/lsz -h
+wget https://github.com/803S/lsz/releases/download/lsz/lsz && sudo mv ./lsz /usr/local/bin/lsz && sudo chmod 755 /usr/local/bin/lsz && echo "ok!"
 ```
 
 ## 常用命令

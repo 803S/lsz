@@ -12,11 +12,11 @@
 数据默认保存在 `~/.lsz.db`。
 
 ---
-<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/828716cd-7e72-413b-9620-569801c8202d" />
-<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/58d67641-1c95-40f9-926e-c61c26939b7e" />
+<img width="48%" height="400" alt="image" src="https://github.com/user-attachments/assets/828716cd-7e72-413b-9620-569801c8202d" />
+<img width="48%" height="400" alt="image" src="https://github.com/user-attachments/assets/58d67641-1c95-40f9-926e-c61c26939b7e" />
 
-<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/0103b4cb-e9ae-4253-9b85-32a69f26073c" />
-<img width="500" height="400" alt="image" src="https://github.com/user-attachments/assets/253a8503-05e9-43a9-847b-07acaea8a5b0" />
+<img width="48%" height="400" alt="image" src="https://github.com/user-attachments/assets/0103b4cb-e9ae-4253-9b85-32a69f26073c" />
+<img width="48%" height="400" alt="image" src="https://github.com/user-attachments/assets/253a8503-05e9-43a9-847b-07acaea8a5b0" />
 
 ---
 
